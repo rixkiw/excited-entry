@@ -1,4 +1,5 @@
-"""Byte-for-byte copy entry.png from the script's directory into MAKEFUN_OUTPUT_DIR (default /output), creating that directory if missing."""
+"""Copy entry.png byte for byte into the output directory (MAKEFUN_OUTPUT_DIR or /output)."""
+# ai-excited-01 entry
 
 import os
 import shutil
