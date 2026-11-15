@@ -1,4 +1,4 @@
-"""Copy entry.png from the script's directory to the output directory."""
+"""Byte-for-byte copy entry.png from the script's directory into MAKEFUN_OUTPUT_DIR (default /output), creating that directory if missing."""
 
 import os
 import shutil
